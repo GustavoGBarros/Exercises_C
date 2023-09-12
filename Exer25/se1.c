@@ -1,4 +1,4 @@
-// Fa�a um algoritmo que pe�a o sal�rio de um funcion�rio. Se o sal�rio for maior do que R$ 10.000, o programa dever� apresentar a mensagem �voc� ganha bem!�
+// Faça um algoritmo que pe�a o sal�rio de um funcion�rio. Se o sal�rio for maior do que R$ 10.000, o programa dever� apresentar a mensagem �voc� ganha bem!�
 #include <stdio.h>
 #include <math.h>
 
